@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.navUL{
+  @apply flex justify-between items-center text-white
+}
+#logo{
+  @apply h-24
+}
